@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "",mongodb+srv://lfmfj09:52YG5jDB3OAqnius@astra.zklym6o.mongodb.net/?retryWrites=true&w=majority&appName=ASTRA
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
